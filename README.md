@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Marcus Vinicius Marinho Ferreira
 * Nome completo do aluno 2
-* Nome completo do aluno 3
+* Arthur Hualde Ribeiro
 * Nome completo do aluno 4
 
 ## Orientador
